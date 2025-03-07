@@ -1,0 +1,74 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="Codeforces-f606228c">
+      <jump line="10" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="7" column="4" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="5" column="23" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="48" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="58" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/Codeforces/main.cpp" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/CLionProjects/Codeforces/main.cpp" timestamp="1740687925032">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IDU7IGkrKykgewogICAgICAgIHN0ZDo6Y291dCA8PCAiaSA9ICIgPDwgaSA8PCBzdGQ6OmVuZGw7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Ly8gICdIZWxwIHwgTGVhcm4gSURFIEZlYXR1cmVzJyBmcm9tIHRoZSBtYWluIG1lbnUuCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">Ly8gIEFsc28sIHlvdSBjYW4gdHJ5IGludGVyYWN0aXZlIGxlc3NvbnMgZm9yIENMaW9uIGJ5IHNlbGVjdGluZwo=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">MTYgMzEgMiAxIDQgMzg3NQoKUHJvY2VzcyBmaW5pc2hlZCB3aXRoIGV4aXQgY29kZSAwCg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

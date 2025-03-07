@@ -1,0 +1,548 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxGYXN0QVBJXD4=</entry>
+        <entry encoding="base64">XDxqb2J1dXVcPg==</entry>
+        <entry encoding="base64">XDxqb2JcPg==</entry>
+        <entry encoding="base64">XDxhZGRfdGFza1w+</entry>
+        <entry encoding="base64">XDxiYWNrZ3JvdW5kX3Rhc2tzYWRkX3Rhc2tcPg==</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64" />
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="rag-server-c31e7100">
+      <jump line="121" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/config.toml" protocol="file" />
+      <jump line="122" column="35" filename="$USER_HOME$/PycharmProjects/rag-server/app/config.toml" protocol="file" />
+      <jump line="151" column="10" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="63" column="22" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="62" column="21" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="65" column="51" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="155" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="166" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="156" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/main.py" protocol="file" />
+      <jump line="84" column="36" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/scraping.py" protocol="file" />
+      <jump line="28" column="58" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/crawl.py" protocol="file" />
+      <jump line="25" column="80" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/generate_content.py" protocol="file" />
+      <jump line="8" column="31" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/utils/restart.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/splitting.py" protocol="file" />
+      <jump line="71" column="18" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/splitting.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/scraping.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/metadata.py" protocol="file" />
+      <jump line="4" column="15" filename="$USER_HOME$/PycharmProjects/rag-server/.env.example" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/.env.example" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/nginx/nginx.conf.old" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/normalization.py" protocol="file" />
+      <jump line="123" column="95" filename="$USER_HOME$/PycharmProjects/rag-server/app/config.toml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/organization_id/rebuild.py" protocol="file" />
+      <jump line="23" column="58" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/organization_id/rebuild.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="97" column="43" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="80" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="4" column="8" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="13" column="56" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="85" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="90" column="9" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="95" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="98" column="95" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="99" column="11" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="69" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="71" column="22" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="77" column="11" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="15" column="60" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="44" column="52" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="85" column="60" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="83" column="45" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="87" column="24" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="69" column="12" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="81" column="33" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="76" column="26" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="97" column="47" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="103" column="32" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="102" column="30" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="148" column="21" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="101" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="138" column="44" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="142" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="149" column="78" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="105" column="68" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="144" column="26" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="35" column="24" filename="$USER_HOME$/PycharmProjects/rag-server/mkdocs.yml" protocol="file" />
+      <jump line="43" column="21" filename="$USER_HOME$/PycharmProjects/rag-server/app/config.toml" protocol="file" />
+      <jump line="120" column="16" filename="$USER_HOME$/PycharmProjects/rag-server/app/config.toml" protocol="file" />
+      <jump line="132" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" protocol="file" />
+      <jump line="9" column="34" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" protocol="file" />
+      <jump line="58" column="6" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="55" column="15" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="46" column="17" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="5" column="40" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" protocol="file" />
+      <jump line="64" column="38" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="0" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/utils.py" protocol="file" />
+      <jump line="4" column="67" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/utils.py" protocol="file" />
+      <jump line="21" column="22" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/organization_id/rebuild.py" protocol="file" />
+      <jump line="113" column="20" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/job.py" protocol="file" />
+      <jump line="11" column="31" filename="$USER_HOME$/PycharmProjects/rag-server/app/tests/conftest.py" protocol="file" />
+      <jump line="2" column="13" filename="$USER_HOME$/PycharmProjects/rag-server/app/tests/test_integration/test_server.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/context/rerank.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/context/retrieve.py" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/context/retrieve.py" protocol="file" />
+      <jump line="79" column="8" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="27" column="26" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/context/retrieve.py" protocol="file" />
+      <jump line="108" column="9" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="112" column="17" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="111" column="35" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="123" column="97" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="118" column="24" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" protocol="file" />
+      <jump line="24" column="8" filename="$USER_HOME$/PycharmProjects/rag-server/app/Dockerfile" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/organization_id/url.py" protocol="file" />
+      <jump line="95" column="31" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="112" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" protocol="file" />
+      <jump line="129" column="20" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" protocol="file" />
+      <jump line="23" column="15" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="64" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="126" column="38" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/jobs.py" protocol="file" />
+      <jump line="63" column="32" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="4" column="32" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+      <jump line="65" column="4" filename="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" protocol="file" />
+    </project>
+    <project id="Codeforces-4a77d19d">
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="19" column="28" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="27" column="35" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="18" column="24" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="31" column="17" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="28" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="26" column="14" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="22" column="43" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="29" column="27" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="21" column="27" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="15" column="21" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="64" column="9" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="23" column="28" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="12" column="29" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="29" column="14" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="5" column="47" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="58" column="24" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="4" column="23" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="51" column="26" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="40" column="38" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="22" column="9" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="21" column="30" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="9" column="22" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="52" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="58" column="35" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="34" column="34" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="52" column="35" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors.py" protocol="file" />
+      <jump line="49" column="17" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="57" column="32" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="46" column="43" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="36" column="31" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="32" column="44" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="35" column="38" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="56" column="33" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="47" column="34" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="11" column="21" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="16" column="4" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="28" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="27" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="26" column="27" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="33" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="23" column="8" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="24" column="33" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="31" column="47" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="13" column="33" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="12" column="30" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="4" column="3" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="23" column="21" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="16" column="33" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="6" column="46" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="11" column="27" filename="$USER_HOME$/PycharmProjects/Codeforces/hunger_games.py" protocol="file" />
+      <jump line="41" column="40" filename="$USER_HOME$/PycharmProjects/Codeforces/2_doors_2.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/tennis.py" protocol="file" />
+      <jump line="4" column="4" filename="$USER_HOME$/PycharmProjects/Codeforces/tennis.py" protocol="file" />
+      <jump line="7" column="19" filename="$USER_HOME$/PycharmProjects/Codeforces/tennis.py" protocol="file" />
+      <jump line="5" column="24" filename="$USER_HOME$/PycharmProjects/Codeforces/tennis.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="13" column="7" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="4" column="38" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="40" column="14" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="21" column="14" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="10" column="17" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="17" column="25" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/perfect_permutation.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/mouse.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="14" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="7" column="31" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="15" column="17" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="8" column="18" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="10" column="20" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="2" column="25" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="9" column="38" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="12" column="28" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="3" column="16" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+      <jump line="6" column="18" filename="$USER_HOME$/PycharmProjects/Codeforces/trains.py" protocol="file" />
+    </project>
+    <project id="BI-KAB-acfff18e">
+      <jump line="1" column="5" filename="$USER_HOME$/PycharmProjects/BI-KAB/requirements.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BI-KAB/README.md" protocol="file" />
+      <jump line="3" column="313" filename="$USER_HOME$/PycharmProjects/BI-KAB/task1_classical/ciphers.txt" protocol="file" />
+      <jump line="10" column="48" filename="$USER_HOME$/PycharmProjects/BI-KAB/task1_classical/kab_lab_cz.ipynb" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/BI-KAB/task1_classical/kab_lab_cz.ipynb" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/BI-KAB/task1_classical/kab_lab_cz.ipynb" protocol="file" />
+    </project>
+    <project id="bi-zum-ls2025-mateial1-edf1faae">
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/README.md" protocol="file" />
+      <jump line="56" column="20" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/__init__.py" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/definitions.py" protocol="file" />
+      <jump line="14" column="18" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="22" column="46" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="27" column="46" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="46" column="8" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="1" column="5" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/.gitignore" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/4.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/26.txt" protocol="file" />
+      <jump line="92" column="8" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="27" column="60" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="43" column="17" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="48" column="42" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="37" column="51" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/main.py" protocol="file" />
+      <jump line="118" column="21" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="126" column="30" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="128" column="15" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="144" column="45" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="122" column="18" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="145" column="33" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="127" column="26" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="44" column="4" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="17" column="13" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="25" column="26" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="55" column="35" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="54" column="16" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="52" column="4" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="28" column="17" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="34" column="39" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="14" column="68" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="30" column="40" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="32" column="33" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="35" column="22" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="100" column="46" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="36" column="52" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="110" column="46" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="164" column="21" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="72" column="40" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="67" column="8" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="37" column="55" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="81" column="48" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/__init__.py" protocol="file" />
+      <jump line="24" column="44" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="24" column="39" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="13" column="7" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="33" column="22" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="39" column="38" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="40" column="69" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="41" column="7" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="20" column="4" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="34" column="44" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="38" column="69" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="28" column="16" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="7" column="45" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/dfs.py" protocol="file" />
+      <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/bfs.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/testovaci_data/00_11_11_1550177690.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/testovaci_data/02_71_51_1552235384.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/testovaci_data/01_71_51_156.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/332.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/220.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/114.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/84.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/36.txt" protocol="file" />
+      <jump line="10" column="15" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/26.txt" protocol="file" />
+      <jump line="2" column="50" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/42.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/72.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/data/dataset/6.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="11" column="125" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/random_search.py" protocol="file" />
+      <jump line="41" column="16" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/greedy.py" protocol="file" />
+      <jump line="55" column="20" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="21" column="18" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="11" column="23" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="9" column="70" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="13" column="11" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="25" column="43" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="24" column="36" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="46" column="62" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="26" column="66" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="83" column="32" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/state_space.py" protocol="file" />
+      <jump line="39" column="12" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/main.py" protocol="file" />
+      <jump line="48" column="91" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+      <jump line="7" column="41" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/main.py" protocol="file" />
+      <jump line="40" column="51" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/main.py" protocol="file" />
+      <jump line="16" column="10" filename="$USER_HOME$/PycharmProjects/bi-zum-ls2025-mateial1/hw01/algorithms/a_star.py" protocol="file" />
+    </project>
+    <project id="Omnicrane Playground-725565f3">
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/halfar1.csv" protocol="file" />
+      <jump line="13" column="112" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/halfar1.csv" protocol="file" />
+      <jump line="18" column="51" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/halfar1.csv" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/towelling1.csv" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="31" column="14" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="10" column="13" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="30" column="76" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="14" column="31" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="546" column="91" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="15" column="41" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber2.csv" protocol="file" />
+      <jump line="113" column="364" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="56" column="341" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="218" column="320" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="16" column="35" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="219" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="13" column="40" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="202" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="11" column="5" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="210" column="258" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+      <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/format_data.ipynb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="29" column="20" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="18" column="42" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="11" column="20" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="21" column="1" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="28" column="53" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="30" column="38" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="31" column="14" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="44" column="48" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="36" column="116" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="46" column="15" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="40" column="54" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="8" column="23" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="26" column="39" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="7" column="26" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" protocol="file" />
+      <jump line="214" column="193" filename="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" protocol="file" />
+    </project>
+    <project id="PythonProject-64471f15">
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/url_parse.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="6" column="14" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="14" column="5" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="19" column="52" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="7" column="43" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+      <jump line="27" column="20" filename="$USER_HOME$/PycharmProjects/PythonProject/csv_test.py" protocol="file" />
+    </project>
+    <project id="resume-939695">
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/resume/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="206" column="13" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="148" column="6" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="150" column="38" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="139" column="4" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="141" column="41" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="144" column="118" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="124" column="6" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="122" column="20" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="196" column="67" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+      <jump line="197" column="74" filename="$USER_HOME$/PycharmProjects/resume/resume.tex" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/scraping.py" timestamp="1741349475715">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/splitting.py" timestamp="1741349475703">
+        <mark key="&quot;" line="71" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/Dockerfile" timestamp="1741349475680">
+        <mark key="&quot;" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/.env" timestamp="1741349475642">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/scraping/metadata.py" timestamp="1741349475726">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/generate_content.py" timestamp="1741349475763">
+        <mark key="&quot;" line="29" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Omnicrane Playground/out/daiber1.csv" timestamp="1741359664905">
+        <mark key="&quot;" line="214" column="193" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/scraping.py" timestamp="1741349475806">
+        <mark key="&quot;" line="84" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/generate_products.py" timestamp="1741349475653">
+        <mark key="&quot;" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/utils/restart.py" timestamp="1741349475835">
+        <mark key="&quot;" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/product/generate_products.py" timestamp="1741349617048">
+        <mark key="&quot;" line="5" column="40" />
+        <mark key="[" line="129" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/mkdocs.yml" timestamp="1741349475794">
+        <mark key="&quot;" line="35" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/utils.py" timestamp="1741349475690">
+        <mark key="&quot;" line="4" column="67" />
+        <mark key="[" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/milvus/interface.py" timestamp="1741349475668">
+        <mark key="&quot;" line="118" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/generate_content.py" timestamp="1741349475827">
+        <mark key="&quot;" line="25" column="80" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/models.py" timestamp="1741358762860">
+        <mark key="&quot;" line="23" column="15" />
+        <mark key="[" line="96" column="48" />
+        <mark key="]" line="96" column="78" />
+        <mark key="^" line="96" column="78" />
+        <mark key="." line="96" column="77" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/.gitignore" timestamp="1741349475739">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Omnicrane Playground/rag_csv.py" timestamp="1741359664885">
+        <mark key="&quot;" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/docs/api.md" timestamp="1741349475781">
+        <mark key="&quot;" line="12" column="9" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rag-server/app/src/api/v1/crawl.py" timestamp="1741349475817">
+        <mark key="&quot;" line="28" column="58" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIGFyciA9IG4gKiBbMF0KICAgIHJlc3VsdCA9IDAKICAgIHByaW50KHJ1bGVzKQoKICAgIGZvciBpIGluIHJhbmdlKGxlbihydWxlcykpOgogICAgICAgIHByaW50KGFycikKICAgICAgICBmb3IgaiBpbiByYW5nZShpLCBydWxlc1tpXSAtIDEpOgogICAgICAgICAgICBwcmludChqKQogICAgICAgICAgICByZXN1bHQgKz0gMQogICAgICAgIGFycltydWxlc1tpXSAtIDFdICs9IG4gLSBydWxlc1tpXQogICAgICAgIHJlc3VsdCArPSBhcnJbaV0KCiAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      </register>
+      <register name="*" type="CHARACTER_WISE">
+        <text encoding="base64">CiAgICAgICAgIyBnZXQgdGhlIGNvbGxlY3Rpb24KICAgICAgICBjb2xsZWN0aW9uID0gQ29sbGVjdGlvbihuYW1lPW9yZ2FuaXphdGlvbl9pZCkKICAgICAgICBkZWxldGVfcmVzdWx0ID0gY29sbGVjdGlvbi5kZWxldGUoZXhwcj1mInVybCA9PSAne3VybH0nIikKICAgICAgICBvcmlnaW5hbF9jaHVua19udW0gPSBjb2xsZWN0aW9uLm51bV9lbnRpdGllcwoKICAgICAgICBzZWxmLmZsdXNoX2NvbGxlY3Rpb24ob3JnYW5pemF0aW9uX2lkKQo=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">c3FsbW9kZWwgUHlUb3JjaCwgdHJhbnNmb3JtZXJzLCBwYW5kYXMsIHNjaWtpdA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">NDQ0</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">XDxwcmludFw+</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgIFxyZXN1bWVTdWJoZWFkaW5nCiAgICAgIHtEYXRhIFNjaWVuY2UgSW50ZXJufXtNYXIuIDIwMjQgLS0gQXByLiAyMDI0fQogICAgICB7T21uaUNyYW5lfXtQcmFndWUsIEN6ZWNoIFJlcHVibGljfQogICAgICBccmVzdW1lSXRlbUxpc3RTdGFydAogICAgICAgIFxyZXN1bWVJdGVte0xlYXJuZWQgYmFzaWNzIG9mIExMTSBmaW5lLXR1bmluZyBhbmQgZGVwbG95bWVudH0KICAgIFxyZXN1bWVJdGVtTGlzdEVuZAo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIGFyciA9IG4gKiBbMF0KICAgIHJlc3VsdCA9IDAKICAgIHByaW50KHJ1bGVzKQoKICAgIGZvciBpIGluIHJhbmdlKGxlbihydWxlcykpOgogICAgICAgIHByaW50KGFycikKICAgICAgICBmb3IgaiBpbiByYW5nZShpLCBydWxlc1tpXSAtIDEpOgogICAgICAgICAgICBwcmludChqKQogICAgICAgICAgICByZXN1bHQgKz0gMQogICAgICAgIGFycltydWxlc1tpXSAtIDFdICs9IG4gLSBydWxlc1tpXQogICAgICAgIHJlc3VsdCArPSBhcnJbaV0KCiAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICBcdGV4dGJme0ZyYW1ld29ya3M6IH0gJiBSZWFjdCwgTWF0ZXJpYWwtVUkgXFwK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBccmVzdW1lSXRlbXtEZXZlbG9wZWQgYSBSQUcgUkVTVCBBUEkgbWljcm9zZXJ2aWNlLCB1dGlsaXppbmcgY3VzdG9tIHJlcmFua2luZyBhbGdvcml0aG1zIGFuZCBrbm93bGVkZ2UgZ3JhcGhzfQogICAgICAgIFxyZXN1bWVJdGVte0ZpbmUtVHVuZWQgYW5kIGRlcGxveWVkIChhcyBtaWNyb3NlcnZpY2UpIHNldmVyYWwgb3Blbi1zb3VyY2UgTExNIG1vZGVsc30KICAgICAgICBccmVzdW1lSXRlbXtDcmVhdGVkIHN5bnRoZXRpYyBkYXRhc2V0IHdpdGggZG9tYWluLXNwZWNpZmljIGtub3dsZWRnZSB1c2VkIGZvciBPUlBPIGZpbmUtdHVuaW5nfQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIFxyZXN1bWVTdWJoZWFkaW5nCiAgICAgIHtEYXRhIFNjaWVuY2UgSW50ZXJufXtNYXIuIDIwMjQgLS0gQXByLiAyMDI0fQogICAgICB7T21uaUNyYW5lfXtQcmFndWUsIEN6ZWNoIFJlcHVibGljfQogICAgICBccmVzdW1lSXRlbUxpc3RTdGFydAogICAgICAgIFxyZXN1bWVJdGVte0xlYXJuZWQgYmFzaWNzIG9mIExMTSBmaW5lLXR1bmluZyBhbmQgZGVwbG95bWVudH0KICAgIFxyZXN1bWVJdGVtTGlzdEVuZAo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF4aXM9MSkKCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YoLlN0cmluZ0lPKHJlc3BvbnNlKSkgCg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables>
+      <variable key="widget_mode_theme_dark" value="Term" type="string" />
+    </vim-variables>
+  </component>
+</application>

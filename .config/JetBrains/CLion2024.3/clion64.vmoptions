@@ -1,0 +1,5 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/truepeak/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=37b39859-fa68-4d63-835e-6c6963ca96bd
+-Dtoolbox.notification.portFile=/home/truepeak/.cache/JetBrains/Toolbox/ports/ff4f79f1-8205-49a1-9337-b351d1112b90.port
+-Didea.suppressed.plugins.set.selector=radler
